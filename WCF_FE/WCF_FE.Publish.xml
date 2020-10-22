@@ -1,0 +1,61 @@
+<publishData>
+  <publishTarget publishUrl="E:\AW_SUNAT0\">
+    <file relUrl="bin/CrystalDecisions.ReportSource.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.XmlSerialize.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/WCF_FE.pdb" publishTime="10/27/2018 13:05:53" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.ObjectFactory.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.CommonControls.dll" publishTime="01/09/2018 07:13:38" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.Prompting.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.ClientDoc.dll" publishTime="01/09/2018 07:13:38" />
+    <file relUrl="bin/0210001004.xml" publishTime="10/31/2017 12:09:56" />
+    <file relUrl="bin/0210001005.xml" publishTime="10/31/2017 12:11:46" />
+    <file relUrl="bin/Microsoft.Practices.Unity.dll" publishTime="04/16/2017 10:33:09" />
+    <file relUrl="bin/System.Net.Http.Formatting.dll" publishTime="10/29/2017 13:48:42" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.Controllers.dll" publishTime="01/09/2018 07:13:38" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.CommLayer.dll" publishTime="01/09/2018 07:13:38" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.DataDefModel.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.DataSetConversion.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/WCF_FE.dll.config" publishTime="01/13/2018 22:59:50" />
+    <file relUrl="bin/stdole.dll" publishTime="07/30/2008 10:06:58" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="06/18/2017 13:57:10" />
+    <file relUrl="bin/OpenInvoicePeru.Comun.Dto.pdb" publishTime="10/27/2018 13:05:52" />
+    <file relUrl="WCF_FE.FEService.svc" publishTime="10/27/2018 15:37:33" />
+    <file relUrl="System.Net.Http.Formatting.dll" publishTime="10/29/2017 13:48:42" />
+    <file relUrl="bin/WCF_FE.dll" publishTime="10/27/2018 13:05:53" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.ReportDefModel.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/Microsoft.Practices.ObjectBuilder2.dll" publishTime="04/16/2017 10:33:09" />
+    <file relUrl="Web.config" publishTime="01/13/2018 22:59:50" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="06/18/2017 13:57:10" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.CommonObjectModel.dll" publishTime="01/09/2018 07:13:38" />
+    <file relUrl="bin/CrystalDecisions.ReportAppServer.CubeDefModel.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/OpenInvoicePeru.Comun.Dto.dll" publishTime="10/27/2018 13:05:52" />
+    <file relUrl="bin/CrystalDecisions.Shared.dll" publishTime="01/09/2018 07:13:40" />
+    <file relUrl="bin/CrystalDecisions.CrystalReports.Engine.dll" publishTime="01/09/2018 07:13:38" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\janyosa\personal\erp\ERP_HALLEY-GRANJA_FACTURAE\InterfazFE\">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="06/18/2017 13:57:10" />
+    <file relUrl="System.Net.Http.Formatting.dll" publishTime="10/29/2017 13:48:41" />
+    <file relUrl="bin/WCF_FE.dll" publishTime="10/30/2017 14:38:30" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="06/18/2017 13:57:10" />
+    <file relUrl="Web.config" publishTime="10/29/2017 18:56:59" />
+    <file relUrl="WCF_FE.FEService.svc" publishTime="10/30/2017 14:38:32" />
+    <file relUrl="bin/OpenInvoicePeru.Comun.Dto.dll" publishTime="10/29/2017 19:33:39" />
+    <file relUrl="bin/OpenInvoicePeru.Comun.Dto.pdb" publishTime="10/29/2017 19:33:39" />
+    <file relUrl="bin/System.Net.Http.Formatting.dll" publishTime="10/29/2017 13:48:41" />
+    <file relUrl="bin/WCF_FE.pdb" publishTime="10/30/2017 14:38:30" />
+    <file relUrl="bin/WCF_FE.dll.config" publishTime="10/29/2017 18:56:59" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\ERP_HALLEY-GRANJA_FACTURAE\InterfazFE\">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="06/18/2017 13:57:10" />
+    <file relUrl="System.Net.Http.Formatting.dll" publishTime="10/29/2017 13:48:41" />
+    <file relUrl="bin/WCF_FE.dll" publishTime="10/29/2017 16:51:27" />
+    <file relUrl="bin/Newtonsoft.Json.xml" publishTime="06/18/2017 13:57:10" />
+    <file relUrl="Web.config" publishTime="10/29/2017 16:52:14" />
+    <file relUrl="WCF_FE.FEService.svc" publishTime="10/29/2017 16:52:26" />
+    <file relUrl="bin/OpenInvoicePeru.Comun.Dto.dll" publishTime="10/29/2017 15:44:26" />
+    <file relUrl="bin/OpenInvoicePeru.Comun.Dto.pdb" publishTime="10/29/2017 15:44:26" />
+    <file relUrl="bin/System.Net.Http.Formatting.dll" publishTime="10/29/2017 13:48:41" />
+    <file relUrl="bin/WCF_FE.pdb" publishTime="10/29/2017 16:51:27" />
+    <file relUrl="bin/WCF_FE.dll.config" publishTime="10/29/2017 16:52:14" />
+  </publishTarget>
+</publishData>

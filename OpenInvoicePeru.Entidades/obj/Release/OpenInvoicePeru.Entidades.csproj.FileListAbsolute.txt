@@ -1,0 +1,15 @@
+C:\Users\JULIO\Desktop\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\bin\Release\OpenInvoicePeru.Entidades.dll
+C:\Users\JULIO\Desktop\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\bin\Release\OpenInvoicePeru.Entidades.pdb
+C:\Users\JULIO\Desktop\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\JULIO\Desktop\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.dll
+C:\Users\JULIO\Desktop\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.pdb
+E:\erp\ERP_HALLEY-GRANJA_FACTURAE\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\bin\Release\OpenInvoicePeru.Entidades.dll
+E:\erp\ERP_HALLEY-GRANJA_FACTURAE\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\bin\Release\OpenInvoicePeru.Entidades.pdb
+E:\erp\ERP_HALLEY-GRANJA_FACTURAE\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.csprojResolveAssemblyReference.cache
+E:\erp\ERP_HALLEY-GRANJA_FACTURAE\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.dll
+E:\erp\ERP_HALLEY-GRANJA_FACTURAE\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.pdb
+E:\erp\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\bin\Release\OpenInvoicePeru.Entidades.dll
+E:\erp\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\bin\Release\OpenInvoicePeru.Entidades.pdb
+E:\erp\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.csprojResolveAssemblyReference.cache
+E:\erp\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.dll
+E:\erp\openinvoiceperu-develop\OpenInvoicePeru\OpenInvoicePeru.Entidades\obj\Release\OpenInvoicePeru.Entidades.pdb
